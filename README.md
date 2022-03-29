@@ -9,6 +9,7 @@
 [第三题](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question3.c)
 [第四题](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question4.c)
 [第五题](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question5.c)
+[第五题-简单知识](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question5_easy.c)
 [第六题](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question6.c)
 [第七题](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question7.c)
 [第八题](https://github.com/watch-cat/Experiment3_CProgramIntroduction/blob/master/question8.c)
